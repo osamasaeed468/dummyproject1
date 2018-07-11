@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 void regular()
+// tyutjjgjghjghjgh
 {    //yo yo yoyoyyoyoyo
     //Regular service: $10.00 plus first 50 minutes are free. Charges for over 50 minutes are $0.20 per minute.
     int min,cost,n;
